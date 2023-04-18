@@ -1,0 +1,33 @@
+body{
+    background-color: deepskyblue;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-family: normal, sans-serif;
+}
+
+.dados{
+    background-color: pink;
+    width: 450px;
+    height: 500px;
+    padding: 15px;
+    border-radius: 15px;
+    border: 1px solid #656565;
+}
+
+label{
+    display: flex;
+    flex-direction: column;
+    margin: 20px 10px;
+}
+
+input{
+    padding: 5px;
+    font-size: 1em; 
+}
