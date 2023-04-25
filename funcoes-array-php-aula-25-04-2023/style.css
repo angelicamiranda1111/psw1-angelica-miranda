@@ -1,0 +1,23 @@
+h1{
+    color: rgb(159, 70, 159);
+    font-size: 27px;
+}
+
+h2{
+    color: pink;
+    font-size: 24px;
+    font-style: italic;
+}
+
+hr{
+    margin-top: 50px;
+    margin-bottom: 40px;
+    opacity: 0.3;
+}
+
+pre{
+    background-color: aqua;
+    padding: 15px;
+    font-size: 24px;
+    color: yellow;
+}
